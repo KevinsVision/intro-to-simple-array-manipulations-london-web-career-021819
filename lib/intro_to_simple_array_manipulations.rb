@@ -39,5 +39,5 @@ end
 
 def using_insert(array, new_element)
   new_element = 'Malbolge'
-  array.insert(3, 'Malbolge')
+  array.insert(3, new_element)
 end
