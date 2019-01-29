@@ -7,7 +7,7 @@ end
 
 def using_unshift(array, string)
   array1 = []
-  string = "fere"
+  string = "Brooklyn Heights"
   array1.unshift(string)
   return array1
 end
