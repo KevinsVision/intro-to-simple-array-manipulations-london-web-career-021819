@@ -16,3 +16,5 @@ def using_unshift(array, string)
   array1 << ""
   return array1
 end
+
+def using_pop(array1)
