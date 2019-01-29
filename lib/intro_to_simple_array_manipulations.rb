@@ -11,3 +11,7 @@ def using_unshift(array, string)
   array1.unshift(string)
   return array1
 end
+
+def using_unshift()
+
+end
