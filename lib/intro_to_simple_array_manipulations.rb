@@ -26,7 +26,7 @@ def pop_with_args(array)
   array.pop
 end
 
-def pop_with_args(array, string)
+def pop_with_args(array)
   array.pop
   array.pop("Sandor Clegane")
 end
