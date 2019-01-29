@@ -23,7 +23,7 @@ end
 
 def pop_with_args(array)
   array.pop
-  array.pop
+  array.pop"Sandor Clegane"
 end
 
 #def pop_with_args(array)
