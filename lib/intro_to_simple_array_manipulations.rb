@@ -28,6 +28,6 @@ end
 
 def pop_with_args(array)
   array.pop
-end
   array.pop
+end
 end
