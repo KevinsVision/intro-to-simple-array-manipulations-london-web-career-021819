@@ -25,7 +25,7 @@ def pop_with_args(array)
   array.pop(2)
 end
 
-def using_shift(array, string)
+def using_shift(array)
   string = "Brooklyn Heights"
   array.shift(string)
 end
