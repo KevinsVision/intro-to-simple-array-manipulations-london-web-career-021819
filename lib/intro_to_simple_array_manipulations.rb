@@ -14,6 +14,5 @@ def using_unshift(array, string)
   array1 << ""
   array1 << ""
   array1 << ""
-  array1 << ""
   return array1
 end
