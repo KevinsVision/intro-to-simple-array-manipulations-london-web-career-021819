@@ -17,4 +17,6 @@ def using_unshift(array, string)
   return array1
 end
 
-def using_pop(array1)
+def using_pop(array)
+  
+end
