@@ -26,8 +26,8 @@ def pop_with_args(array)
   array.pop
 end
 
-def pop_with_args(array)
-  array = []
-  array.pop
-  array.pop
-end
+#def pop_with_args(array)
+ # array = []
+  #array.pop
+  #array.pop
+#end
