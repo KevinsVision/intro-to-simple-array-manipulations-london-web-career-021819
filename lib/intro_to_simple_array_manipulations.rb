@@ -19,5 +19,5 @@ end
 
 def using_pop(array)
   string = "Losing My Religion"
-  array1.pop(string)
+  array.pop(string)
 end
