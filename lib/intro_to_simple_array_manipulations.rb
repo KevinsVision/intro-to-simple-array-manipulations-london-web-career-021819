@@ -10,5 +10,5 @@ def using_unshift(array, string)
   string = "Brooklyn Heights"
   array1.unshift(string)
   return array1
-  array1 += 1
+  using_unshift += 1
 end
