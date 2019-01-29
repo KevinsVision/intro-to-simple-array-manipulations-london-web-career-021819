@@ -27,5 +27,5 @@ end
 
 def using_shift(array, string)
   string = "Brooklyn Heights"
-  array.unshift(string)
+  array.shift(string)
 end
