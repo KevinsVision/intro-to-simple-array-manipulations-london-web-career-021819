@@ -25,8 +25,6 @@ def pop_with_args(array)
   array.pop(2)
 end
 
-#def pop_with_args(array)
- # array = []
-  #array.pop
-  #array.pop
-#end
+def using_unshift(array)
+  
+end
