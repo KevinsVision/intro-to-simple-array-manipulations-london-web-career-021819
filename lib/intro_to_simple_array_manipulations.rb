@@ -26,5 +26,6 @@ def pop_with_args(array)
 end
 
 def using_unshift(array, string)
+  sring = "Brooklyn Heights"
   array.unshift
 end
