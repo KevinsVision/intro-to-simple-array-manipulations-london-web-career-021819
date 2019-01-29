@@ -37,6 +37,6 @@ def using_concat(array, array1)
   array.concat(array1)
 end
 
-def using_insert(array, array1)
-  array.insert(3, "Malbolge")
+def using_insert(array, array1 = "Malbolge")
+  array.insert(3, array1)
 end
