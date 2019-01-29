@@ -1,4 +1,4 @@
-def using_push(array, string)
+def using_push(Array, string)
   array = []
   string = "Next country"
   using_push.Push(string)
