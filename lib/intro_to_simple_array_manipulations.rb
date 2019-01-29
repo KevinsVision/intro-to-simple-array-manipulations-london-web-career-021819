@@ -10,8 +10,5 @@ def using_unshift(array, string)
   string = "Brooklyn Heights"
   array1.unshift(string)
   return array1
-end
-
-def using_unshift()
-
+  array1 += 1
 end
