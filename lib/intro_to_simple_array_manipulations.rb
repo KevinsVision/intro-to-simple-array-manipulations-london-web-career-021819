@@ -22,9 +22,8 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  array = ["Stable Boy", "Sandor Clegane"]
-  array.pop
-  array.pop
+  array = []
+  array.pop(2)
 end
 
 #def pop_with_args(array)
