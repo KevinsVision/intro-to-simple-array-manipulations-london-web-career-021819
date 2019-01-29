@@ -9,6 +9,6 @@ def using_unshift(array, string)
   array1 = []
   string = "Brooklyn Heights"
   array1.unshift(string)
-  array1 << += 6
+  array1 += 6
   return array1
 end
