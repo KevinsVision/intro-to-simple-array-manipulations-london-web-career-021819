@@ -6,4 +6,8 @@ def using_push(array, string)
 end
 
 def using_unshift(array, string)
-  
+  array1 = []
+  string = "fere"
+  array1.unshift(string)
+  return array1
+end
