@@ -38,5 +38,6 @@ def using_concat(array, array1)
 end
 
 def using_insert(array, array1)
+  array1 = "Malbolge"
   array.insert(array1)
 end
