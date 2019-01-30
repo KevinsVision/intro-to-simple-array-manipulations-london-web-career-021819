@@ -47,6 +47,7 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-  array = 
+  array = "New York University", "Manhattan School of Music ", "Columbia University", "The Juilliard School", "Bard College", "Cooper Union"
+  array.flatten()
   
 end
